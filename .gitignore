@@ -77,3 +77,7 @@ DeltaChatData
 
 static/fallback-theme.css
 themes/*.css
+
+# ignore provisioning file
+embedded.provisionprofile
+
